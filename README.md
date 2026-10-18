@@ -1,36 +1,42 @@
-# Robot aspirateur (Roomba)
+# 🤖 Robot aspirateur autonome
 
-Objectif:
+## Présentation
 
-L’objectif de ce projet était de développer un robot autonome capable de se déplacer sans intervention humaine tout en détectant son environnement afin d’éviter les obstacles et les zones dangereuses. Ce projet avait pour but d’explorer les bases de la robotique mobile, de la programmation embarquée et de la gestion de capteurs.
+Projet de robotique mobile visant à réaliser un robot capable de se déplacer de façon autonome et de détecter les obstacles à l’aide de capteurs.
 
-Technologies utilisées:
+Ce projet met en pratique la programmation embarquée, le câblage de composants et la mise au point d’une logique de déplacement.
 
-. Arduino
-. Langage C
-. Capteurs infrarouges
-. Microcontrôleur
+## Fonctionnement
 
-Étapes du projet:
+- Lecture des informations issues des capteurs infrarouges.
+- Détection des obstacles présents sur la trajectoire.
+- Prise de décision pour adapter le déplacement du robot.
+- Tests de navigation et ajustement du comportement.
 
-1. Analyse du fonctionnement d’un robot autonome
-2. Choix et étude des capteurs de détection
-3. Câblage des composants électroniques
-4. Développement des algorithmes de déplacement
-5. Intégration de la détection des obstacles
-6. Réalisation de plusieurs tests de navigation
-7. Ajustement des paramètres pour améliorer les performances
+## Technologies et matériel
 
-Compétences développées:
+- **Carte :** Arduino
+- **Langage :** C
+- **Capteurs :** infrarouges
+- **Domaines :** robotique mobile, systèmes embarqués, capteurs et actionneurs
 
-- Programmation embarquée
-- Gestion des capteurs
-- Logique de navigation autonome
-- Analyse et résolution de problèmes
-- Travail en équipe
+## Étapes du projet
 
-Résultats:
+1. Étudier le fonctionnement du robot et des capteurs.
+2. Réaliser le câblage des composants.
+3. Développer la logique de déplacement en C.
+4. Intégrer la détection des obstacles.
+5. Tester le comportement du robot et déboguer le programme.
 
-. Détection efficace des obstacles
-. Navigation autonome fonctionnelle
-. Amélioration de la précision des déplacements
+## Compétences mobilisées
+
+- Programmation en C sur microcontrôleur
+- Intégration et lecture de capteurs
+- Logique de commande et déplacement autonome
+- Câblage, tests fonctionnels et débogage
+- Résolution de problèmes et travail en équipe
+
+---
+
+**Domaine :** robotique · systèmes embarqués  
+**Dépôt :** [Robot-aspirateur-Roomba-](https://github.com/khadija-el-halouat/Robot-aspirateur-Roomba-)
